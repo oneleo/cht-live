@@ -1,3 +1,8 @@
+# CHT Live Course Announcement
+
+- [2021/01/08 15:00【DevOps!? → then GitOps! GitOps is IaC done right!!】直播課程連結通知](https://oneleo.github.io/cht-live/cht-live_20210108.html)
+- [2020/09/30 15:00【AR/VR 發展概況與領域應用觀測】直播課程連結通知](https://oneleo.github.io/cht-live/cht-live_20200930.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/oneleo/cht-live/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

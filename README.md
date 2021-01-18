@@ -1,5 +1,6 @@
 # CHT Live Course Announcement
 
+- [2021/01/18【[電信學院通知]110 年度培訓需求調查通知！？】資訊課程教您如何選！](https://oneleo.github.io/cht-live/cht-live_20210118.html)
 - [2021/01/08 15:00【DevOps!? → then GitOps! GitOps is IaC done right!!】直播課程連結通知](https://oneleo.github.io/cht-live/cht-live_20210108.html)
 - [2020/09/30 15:00【AR/VR 發展概況與領域應用觀測】直播課程連結通知](https://oneleo.github.io/cht-live/cht-live_20200930.html)
 

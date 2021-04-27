@@ -1,6 +1,7 @@
 # CHT Live Course Announcement
 
-- [4 月 20 日至 4 月 26 日【GCP 雲服務入門研習班】系列直播課程通知](https://oneleo.github.io/cht-live/cht-live_20210421.html)
+- [05 月 06 日【區塊鏈與密碼貨幣原理入門】課程通知](https://oneleo.github.io/cht-live/cht-live_20210506.html)
+- [04 月 20 日至 4 月 26 日【GCP 雲服務入門研習班】系列直播課程通知](https://oneleo.github.io/cht-live/cht-live_20210421.html)
 - [04/19（一）【威力導演軟體影音剪輯入門實務班】課程報名通知](https://oneleo.github.io/cht-live/cht-live_20210419.html)
 - [三、四月份【網站可靠性工程師養成】課程報名通知（K8S）](https://oneleo.github.io/cht-live/cht-live_20210310.html)
 - [三、四月份【網站可靠性工程師養成】課程報名通知（Container）](https://oneleo.github.io/cht-live/cht-live_20210223.html)

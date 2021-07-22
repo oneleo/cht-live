@@ -1,6 +1,6 @@
 # CHT Live Course Announcement
 
-- [7 月 28 日（周三）【Google Cloud Data Warehousing with BigQuery（含Qwiklab）】報名資訊](https://oneleo.github.io/cht-live/cht-live_20210728.html)
+- [7 月 28 日（周三）【Google Cloud Data Warehousing with BigQuery（含 Qwiklab）】報名資訊](https://oneleo.github.io/cht-live/cht-live_20210728.html)
 - [六月份【微軟 Azure 基礎認證輔導班】課程報名通知](https://oneleo.github.io/cht-live/cht-live_20210607-0617.html)
 - [05 月 06 日【區塊鏈與密碼貨幣原理入門】課程通知](https://oneleo.github.io/cht-live/cht-live_20210506.html)
 - [04 月 20 日至 4 月 26 日【GCP 雲服務入門研習班】系列直播課程通知](https://oneleo.github.io/cht-live/cht-live_20210421.html)

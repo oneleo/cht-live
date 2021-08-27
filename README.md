@@ -1,5 +1,6 @@
 # CHT Live Course Announcement
 
+- [2021/08/27 【線上視訊互動遊戲化解決方案】課程上課通知](https://oneleo.github.io/cht-live/cht-live_20210827.html)
 - [2021/08/09 ~ 09/13 CK226P006 敏捷開發 Scrum 入門班](https://oneleo.github.io/cht-live/cht-live_20210809-0913.html)
 - [7 月 28 日（周三）【Google Cloud Data Warehousing with BigQuery（含 Qwiklab）】報名資訊](https://oneleo.github.io/cht-live/cht-live_20210728.html)
 - [六月份【微軟 Azure 基礎認證輔導班】課程報名通知](https://oneleo.github.io/cht-live/cht-live_20210607-0617.html)

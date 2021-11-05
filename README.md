@@ -1,5 +1,6 @@
 # CHT Live Course Announcement
 
+- [11/24 第 37 屆台瑞典經濟合作線上會議報名通知](https://oneleo.github.io/cht-live/cht-live_20211124.html)
 - [11/17 Go 語言課程更改信](https://oneleo.github.io/cht-live/cht-live_20211117-1118.html)
 - [09/10【人工智慧系列 - 如何成為資料分析師】直播課程](https://oneleo.github.io/cht-live/cht-live_20210910.html)
 - [09/08 【區塊鏈與密碼貨幣原理入門】課程報名通知](https://oneleo.github.io/cht-live/cht-live_20210908.html)
